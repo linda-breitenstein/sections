@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   background-color: #eee9de;
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
   line-height: 1.5;
 }
 
@@ -17,6 +17,10 @@ html {
   text-decoration: none;
 }
 
-body {
+section {
   margin: 1.5rem;
+}
+
+img {
+  max-width: 25em;
 }
