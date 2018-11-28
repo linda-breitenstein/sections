@@ -27,11 +27,11 @@ img {
 body {
   text-align: left;
   vertical-align: middle;
-  margin: 3rem 1.5rem;
+  margin: 3rem 1rem;
   display: inline-block;
 }
 
 h1 {
-  padding: 1em 0;
+  padding: .5em 0;
   font-weight: bold;
 }
