@@ -1,0 +1,22 @@
+html {
+  box-sizing: border-box;
+  background-color: #eee9de;
+  font-family: 'Lato', sans-serif;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+.btn {
+  color: #666;
+  border: 3px solid #333;
+  border-radius: 6px;
+  padding: .4em .75em .5em;
+  text-decoration: none;
+}
+
+body {
+  margin: 1.5rem;
+}
