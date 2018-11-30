@@ -33,7 +33,7 @@ body {
   text-align: center;
   vertical-align: middle;
   margin: 0;
-  display: inline-block;
+  display: block;
 }
 
 h2 {
