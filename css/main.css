@@ -19,19 +19,38 @@ html {
 }
 
 img {
-  max-width: 25em;
-  display: block;
   width: 100%;
+  display: block;
 }
 
 body {
   text-align: left;
   vertical-align: middle;
-  margin: 3rem 1rem;
+  margin: 0;
   display: inline-block;
 }
 
 h1 {
   padding: .5em 0;
   font-weight: bold;
+  margin-top: 0;
+}
+
+section {
+  display: block;
+  margin: 3rem 0;
+}
+
+.image, .body {
+  display: inline-block;
+  max-width: 25em;
+  vertical-align: middle;
+}
+
+.image {
+  padding: 0 1em;
+}
+
+.body {
+  padding: 1em;
 }
